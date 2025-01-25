@@ -133,9 +133,9 @@ Student Name : Pinsara A.R.D.
   </a>
 
   <!-- Most Contributed Repositories -->
-  <a href="https://githubtrends.io">
+  <!--  <a href="https://githubtrends.io">
     <img src="https://api.githubtrends.io/user/svg/Deneth-Pinsara/repos?time_range=one_year&theme=synthwaves" alt="Most Contributed Repositories" />
-  </a>
+  </a>  -->
 
 </div>
 
