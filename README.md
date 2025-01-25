@@ -1,5 +1,5 @@
 <p align="center">
- <a href="https://github.com/IT21158186">
+ <a href="https://github.com/Deneth-Pinsara">
    <img alt="Coder GIF" height="250" width="350" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" autoplay>
  </a>
 </p>
@@ -31,11 +31,11 @@
 <!-- Badges with custom icons section -->
 <p align="center" width="100%">
 
-<a href="https://github.com/IT21158186?tab=ProfileViews" target="_blank">
-  <img align="center" alt="Deneth Pinsara | Profile Views" width="120px" src="https://komarev.com/ghpvc/?username=IT21158186&style=plastic" />
+<a href="https://github.com/Deneth-Pinsara?tab=ProfileViews" target="_blank">
+  <img align="center" alt="Deneth Pinsara | Profile Views" width="120px" src="https://komarev.com/ghpvc/?username=Deneth-Pinsara&style=plastic" />
 </a> &nbsp;&nbsp;
-<a href="https://github.com/IT21158186?tab=followers" target="_blank">
-  <img align="center" alt="Deneth Pinsara | followers" width="93px" src="https://img.shields.io/github/followers/IT21158186?label=Followers&style=social" /> </a> &nbsp;&nbsp;
+<a href="https://github.com/Deneth-Pinsara?tab=followers" target="_blank">
+  <img align="center" alt="Deneth Pinsara | followers" width="93px" src="https://img.shields.io/github/followers/Deneth-Pinsara?label=Followers&style=social" /> </a> &nbsp;&nbsp;
 
 </p>
 <br />
@@ -88,7 +88,7 @@
 ```
 For Academic Purposes
 
-SLIIT Student ID : IT21158186
+SLIIT Student ID : Deneth-Pinsara
 Student Name : Pinsara A.R.D.
 ```
 
@@ -118,30 +118,30 @@ Student Name : Pinsara A.R.D.
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
   <!-- GitHub Top Languages -->
-  <a href="https://github.com/IT21158186/github-readme-stats">
-    <img alt="Deneth's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT21158186&langs_count=10&count_private=true&layout=compact&theme=radical&hide_border=true" />
+  <a href="https://github.com/Deneth-Pinsara/github-readme-stats">
+    <img alt="Deneth's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deneth-Pinsara&langs_count=10&count_private=true&layout=compact&theme=radical&hide_border=true" />
   </a>
 
   <!-- GitHub Stats -->
-  <a href="https://github.com/IT21158186/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=IT21158186&theme=radical&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" />
+  <a href="https://github.com/Deneth-Pinsara/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Deneth-Pinsara&theme=radical&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" />
   </a>
 
   <!-- GitHub Streak -->
-  <a href="https://github.com/IT21158186/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=IT21158186&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Deneth-Pinsara&">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deneth-Pinsara&theme=radical&hide_border=true" alt="GitHub Streak" />
   </a>
 
   <!-- Most Contributed Repositories -->
   <a href="https://githubtrends.io">
-    <img src="https://api.githubtrends.io/user/svg/IT21158186/repos?time_range=one_year&theme=synthwaves" alt="Most Contributed Repositories" />
+    <img src="https://api.githubtrends.io/user/svg/Deneth-Pinsara/repos?time_range=one_year&theme=synthwaves" alt="Most Contributed Repositories" />
   </a>
 
 </div>
 
 <!-- GitHub Activity Graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IT21158186&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deneth-Pinsara&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
 </a>
 
 
@@ -161,4 +161,4 @@ If you like what am doing, maybe consider buying me a coffee/tea👉👈
 
 <!-- ## Snake eating my contributions graph -->
 
-![snake gif](https://github.com/IT21158186/IT21158186/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Deneth-Pinsara/Deneth-Pinsara/blob/output/github-contribution-grid-snake.gif)
