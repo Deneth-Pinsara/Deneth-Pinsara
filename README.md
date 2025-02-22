@@ -8,7 +8,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20There!;I'm%20Deneth%20Pinsara;Software%20Engineer👨🏻‍💻;Web%20Developer💻;Tech%20Enthusiast🚀;Last%20year%20SLIIT%20Undergraduate%20👨‍🎓;Job%20Seeker&font=Fira%20Code&center=true&width=440&height=45&color=#a930ff&vCenter=true&size=28" width="100%"></a>
 </p>
 
-<h3 align="center">I'm a passionate Web Developer from Sri Lanka and am also a freelanser. I'm learning from open-source communities and I love, how collaboration and knowledge sharing happened through open-source.</h3>
+<h3 align="center">I'm a passionate Software Engineer from Sri Lanka and am also a freelanser. I'm learning from open-source communities and I love, how collaboration and knowledge sharing happened through open-source.</h3>
 
 <br/>
 <br/>
