@@ -40,7 +40,7 @@
 </p>
 <br />
 
-## Portfolio🌐 : [DenethPinsara.github.io](https://Deneth-Pinsara.github.io/)
+## Portfolio🌐 : [https://deneth-pinsara.github.io/](https://Deneth-Pinsara.github.io/)
 <br/>
 
 ## 🙋‍♂️ About Me 
