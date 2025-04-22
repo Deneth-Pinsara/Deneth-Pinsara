@@ -111,7 +111,7 @@ Student Name : Pinsara A.R.D.
 </a>
 
 <a title="Get started with Power Apps canvas apps" href="https://learn.microsoft.com/en-us/training/modules/get-started-with-powerapps/">
-  <img width="120px" height="120px" src="https://learn.microsoft.com/training/achievements/power-platform.powerapps-get-started-with-powerapps.svg">
+  <img width="120px" height="120px" src="https://learn.microsoft.com/en-us/training/achievements/get-started-with-powerapps.svg">
 </a>
 
 </p>
