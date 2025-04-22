@@ -100,23 +100,62 @@ Student Name : Pinsara A.R.D.
 [![@it21158186's Holopin board](https://holopin.me/it21158186#badges)](www.holopin.io/@it21158186#badges)
 <br/>
 
----
-
 ## 🏆 Awards I Achieved
 ---
-<p align="center" width="100%">
- 
-<a title="AWS Educate Introduction to Cloud 101" href="https://www.credly.com/earner/earned/badge/ee944d91-6f44-4bb6-bc02-7ac62ebee8eb">
-  <img width="120px" height="120px" src="https://github.com/user-attachments/assets/f59a2132-a218-410e-9c74-1b471782fd6b">
-</a>
 
-<a title="Get started with Power Apps canvas apps" href="https://learn.microsoft.com/en-us/training/modules/get-started-with-powerapps/">
-  <img width="120px" height="120px" src="https://learn.microsoft.com/en-us/training/achievements/get-started-with-powerapps.svg">
-</a>
-
-</p>
-
----
+<table align="center">
+  <tr>
+    <td align="center">
+      <a title="Get started with Power Apps canvas apps" href="https://learn.microsoft.com/en-us/training/modules/get-started-with-powerapps/">
+        <img width="120px" height="120px" src="https://learn.microsoft.com/en-us/training/achievements/get-started-with-powerapps.svg">
+      </a>
+    </td>
+    <td align="center">
+      <a title="Describe how to build applications with Microsoft Power Apps" href="https://learn.microsoft.com/en-us/training/modules/introduction-power-apps/">
+        <img width="120px" height="120px" src="https://learn.microsoft.com/en-us/training/achievements/introduction-power-apps.svg">
+      </a>
+    </td>
+    <td align="center">
+      <a title="Create and publish custom GitHub actions" href="https://learn.microsoft.com/en-us/training/modules/create-custom-github-actions/">
+        <img width="120px" height="120px" src="https://learn.microsoft.com/en-us/training/achievements/github/create-custom-github-actions.svg">
+      </a>
+    </td>
+    <td align="center">
+      <a title="Introduction to GitHub's products" href="https://learn.microsoft.com/en-us/training/modules/github-introduction-products/">
+        <img width="120px" height="120px" src="https://learn.microsoft.com/en-us/training/achievements/github-introduction-products.svg">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a title="Introduction to Azure DevOps" href="https://learn.microsoft.com/en-us/training/modules/get-started-with-devops/">
+        <img width="120px" height="120px" src="https://learn.microsoft.com/en-us/training/achievements/azure-devops/get-started-with-devops.svg">
+      </a>
+    </td>
+    <td align="center">
+      <a title="Manage Agile software delivery plans across teams" href="https://learn.microsoft.com/en-us/training/modules/manage-delivery-plans/">
+        <img width="120px" height="120px" src="https://learn.microsoft.com/en-us/training/achievements/azure-devops/manage-agile-software-delivery-plans-across-teams.svg">
+      </a>
+    </td>
+    <td align="center">
+      <a title="Choose an Agile approach to software development" href="https://learn.microsoft.com/en-us/training/modules/choose-an-agile-approach/">
+        <img width="120px" height="120px" src="https://learn.microsoft.com/en-us/training/achievements/azure-devops/choose-an-agile-approach-to-software-development.svg">
+      </a>
+    </td>
+    <td align="center">
+      <a title="Assess your existing software development process" href="https://learn.microsoft.com/en-us/training/modules/assess-your-development-process/">
+        <img width="120px" height="120px" src="https://learn.microsoft.com/en-us/training/achievements/azure-devops/assess-your-software-development-process.svg">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="4">
+      <a title="AWS Educate Introduction to Cloud 101" href="https://www.credly.com/earner/earned/badge/ee944d91-6f44-4bb6-bc02-7ac62ebee8eb">
+        <img width="120px" height="120px" src="https://github.com/user-attachments/assets/f59a2132-a218-410e-9c74-1b471782fd6b">
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ## 📊 My GitHub Stats:
