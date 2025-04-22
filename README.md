@@ -94,13 +94,13 @@ Student Name : Pinsara A.R.D.
 
 </p>
 
-## 🥇 Badges I Achieved
+## 🥇 Badges (Holopin) I Achieved
 ---
 
 [![@it21158186's Holopin board](https://holopin.me/it21158186#badges)](www.holopin.io/@it21158186#badges)
 <br/>
 
-## 🏆 Awards I Achieved
+## 🏆 Other Badges & Awards I Achieved
 ---
 
 <table align="center">
