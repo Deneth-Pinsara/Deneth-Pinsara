@@ -107,11 +107,17 @@ Student Name : Pinsara A.R.D.
 <p align="center" width="100%">
  
 <a title="AWS Educate Introduction to Cloud 101" href="https://www.credly.com/earner/earned/badge/ee944d91-6f44-4bb6-bc02-7ac62ebee8eb">
-  <img  width="120px" height="120px" src="https://github.com/user-attachments/assets/f59a2132-a218-410e-9c74-1b471782fd6b">
+  <img width="120px" height="120px" src="https://github.com/user-attachments/assets/f59a2132-a218-410e-9c74-1b471782fd6b">
 </a>
+
+<a title="Get started with Power Apps canvas apps" href="https://learn.microsoft.com/en-us/training/modules/get-started-with-powerapps/">
+  <img width="120px" height="120px" src="https://learn.microsoft.com/training/achievements/power-platform.powerapps-get-started-with-powerapps.svg">
+</a>
+
 </p>
 
 ---
+
 
 ## 📊 My GitHub Stats:
 
