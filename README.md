@@ -173,10 +173,10 @@ Student Name : Pinsara A.R.D.
   </a>
 
   <!-- GitHub Streak -->
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Deneth-Pinsara&">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Deneth-Pinsara">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deneth-Pinsara&theme=radical&hide_border=true" alt="GitHub Streak" />
   </a>
-
+  
   <!-- Most Contributed Repositories -->
   <!--  <a href="https://githubtrends.io">
     <img src="https://api.githubtrends.io/user/svg/Deneth-Pinsara/repos?time_range=one_year&theme=synthwaves" alt="Most Contributed Repositories" />
