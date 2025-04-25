@@ -173,7 +173,7 @@ Student Name : Pinsara A.R.D.
   </a>
 
   <!-- GitHub Streak -->
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Deneth-Pinsara">
+  <a href="https://github.com/Deneth-Pinsara">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deneth-Pinsara&theme=radical&hide_border=true" alt="GitHub Streak" />
   </a>
   
