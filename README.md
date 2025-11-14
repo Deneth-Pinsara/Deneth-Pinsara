@@ -1,203 +1,229 @@
-<p align="center">
- <a href="https://github.com/Deneth-Pinsara">
-   <img alt="Coder GIF" height="250" width="350" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" autoplay>
- </a>
-</p>
+<div align="center">
 
-<p align="center" width="100%">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20There!;I'm%20Deneth%20Pinsara;Software%20Engineer👨🏻‍💻;Web%20Developer💻;Tech%20Enthusiast🚀;Job%20Seeker&font=Fira%20Code&center=true&width=440&height=45&color=#a930ff&vCenter=true&size=28" width="100%"></a>
-</p>
+# 👋 Hi there, I'm Deneth Pinsara
 
-<h3 align="center">I'm a passionate Software Engineer from Sri Lanka and am also a freelanser. I'm learning from open-source communities and I love, how collaboration and knowledge sharing happened through open-source.</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Full+Stack+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Technologies&font=Fira+Code&center=true&width=600&height=45&color=00ff00&vCenter=true&size=28&duration=3000&pause=1000">
+</div>
 
-<br/>
-<br/>
+</div>
 
-<!-- Social icons section -->
-<p align="center">
-<a href="https://www.linkedin.com/in/deneth-pinsara-6a765221b/" target="_blank">
-  <img align="center" alt="Deneth Pinsara | Linkedin" width="24px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
-</a> &nbsp;&nbsp;
-<a href="https://twitter.com/DenethOfficial" target="_blank">
-  <img align="center" alt="Deneth Pinsara | Twitter" width="26px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />
-</a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/iam_deneth/" target="_blank">
-  <img align="center" alt="Iam_deneth | Instagram" width="24px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
-</a> &nbsp;&nbsp;
-<p>
-  
-<br/>
-
-<!-- Badges with custom icons section -->
-<p align="center" width="100%">
-
-<a href="https://github.com/Deneth-Pinsara?tab=ProfileViews" target="_blank">
-  <img align="center" alt="Deneth Pinsara | Profile Views" width="120px" src="https://komarev.com/ghpvc/?username=Deneth-Pinsara&style=plastic" />
-</a> &nbsp;&nbsp;
-<a href="https://github.com/Deneth-Pinsara?tab=followers" target="_blank">
-  <img align="center" alt="Deneth Pinsara | followers" width="93px" src="https://img.shields.io/github/followers/Deneth-Pinsara?label=Followers&style=social" /> </a> &nbsp;&nbsp;
-
-</p>
-<br />
-
-## Portfolio🌐 : [https://deneth-portfolio.netlify.app/](https://deneth-portfolio.netlify.app/)
-<br/>
-
-## 🙋‍♂️ About Me 
-
-⣀⣤⠖⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠋⠀⠀⠀⠀⠰⠇⡷⠀⠀⠀⠀⠀⢸⣇⣇⡄⠙⠿⣶⣌⡦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⢫⠆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣤⠂⠀⢀⠇⠀⣠⠂⠀⠀⢸⣿⣁⢹⢀⡀⠀⠈⠻⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⢃⣠⡾⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣿⠀⠀⠸⠀⡬⠉⠀⠀⠀⠸⣿⢿⢸⠈⢻⣦⡀⠀⠸⣵⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⡿⠋⣀⠀⡆⠀⠀⠀⠀⠀⡠⠀⡀⣰⡿⢻⣿⠀⠀⠀⠀⠀⠀⠀⠀⣶⡆⣧⢘⢸⡀⢸⡉⠛⠒⠒⠚⠛⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⣠⣾⢁⡼⠀⠀⠀⠀⢀⡼⢁⣼⡿⠋⠀⠀⣹⡄⠀⠀⠀⠀⠀⠀⢰⣿⣿⠽⣽⡾⣧⡀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⣿⣣⣿⠃⠀⣀⡴⣠⡿⢁⣾⣃⣤⢴⣖⡛⣻⢳⡇⢠⢀⣄⠎⣰⣿⣿⣏⡴⣛⢻⣌⢛⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⣷⠋⡍⠀⣰⢏⣴⣿⣱⣿⢿⣛⣯⡽⢾⢻⢿⠏⡿⡥⣾⣿⣴⣟⢹⣿⢻⠉⠛⠻⠿⠿⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⡍⢀⠃⣴⣯⡾⢻⣷⡿⠛⠋⠉⠀⠈⠓⠋⣘⡴⢿⣿⣿⣿⣿⡷⣿⠿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠸⣼⡿⠟⠀⠟⠈⠀⠉⠐⠒⠒⠒⠒⠉⠁⠀⢸⡿⡿⢹⡟⠧⠿⠀⠈⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠟⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⢀⡾⠀⢸⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⢰⡷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡼⠁⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠹⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣼⠁⠀⠀⢸⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠞⣯⡷⡄⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡴⠋⣸⣿⢿⡁⠀⣼⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⠟⠀⢰⡿⠃⣸⣇⢠⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠉⠀⠀⠀⠀⢀⣠⣾⣿⡟⢀⡰⠋⠀⠀⠿⢹⣿⣁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⣀⠀⠀⠀⠀⠀⠀⣀⣤⣶⣿⣿⣿⣟⡴⠋⠀⠀⠀⠀⢠⣿⣿⣏⠗⢦⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⣿⣷⣶⣤⣴⣶⣿⣿⣿⣿⣿⣿⠟⠋⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣷⣼⣿⣛⡻⢦⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⠿⣿⣿⣿⣿⡦⢬⡑⣾⣝⠳⣦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⣿⣿⣿⣿⣿⣿⣿⣿⡿⠛⣦⠀⠀⠀⠀⠀⠀⠀⢀⣾⣿⠃⠀⠈⣹⡿⣿⣟⠒⠬⣹⡧⢍⣒⣿⣿⣶⣶⣤⣀⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀
-⡆⠘⣿⣿⣿⣿⡿⠋⢰⠁⠀⢳⡄⠀⠀⠀⠀⠀⡼⡼⡇⠀⠀⣰⠟⠀⢸⣯⡉⠒⢾⣏⡑⠲⠽⣿⣿⣿⣿⣿⣿⣿⡿⢋⡙⢆⠀⠀⠀⠀
-⠁⠀⠸⣿⡿⠋⡇⠀⠘⠀⠀⠀⣿⣆⠀⠀⠀⢠⠃⢿⠁⠀⠀⠉⠀⠀⢸⣯⣈⡉⢺⣿⢬⣉⡚⡿⠿⢿⣿⣿⣿⡟⢠⠋⠀⠀⢣⡀⠀⠀
-⠀⠀⡔⠃⠀⡸⠀⠀⠀⠀⠀⠀⢹⣿⣆⠀⠀⡞⠀⢻⡆⠀⠀⠀⠀⢀⣿⣿⠤⢍⣹⢹⣖⠂⠤⢇⠀⠀⠀⠀⢹⠀⠁⠀⠀⠀⠀⠱⡀⠀
-⡄⠀⠁⠀⡼⢁⡆⠀⠀⠀⠀⠀⢸⣿⣿⣧⣸⠁⠀⣹⠀⠀⠀⠀⠀⣼⡇⣿⡓⠢⢼⠈⣧⢍⣉⣺⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢣⠀
-⢨⠀⠀⣖⢃⡜⠀⢰⠀⠀⠀⠀⠈⣿⡏⠀⠑⠀⣰⡟⠀⠀⠀⠀⢰⡟⠀⣿⠮⣅⣺⠀⢻⡒⠒⠦⡇⠀⠀⠀⣆⠀⠀⠀⠀⠀⠀⠀⠘⡀
-
-
-- 🔭 I'm currently a **Job Seeker**
-
-- 👯 I'm looking to collaborate on **OpenSource Projects**
-
-- 📫 How to reach me **deneth.official1@gmail.com**
-
-- ⚡ Fun fact **I play video games and watch series**
-  <br/>
-
-## 🥇 Badges (Holopin) I Achieved
 ---
 
-[![@it21158186's Holopin board](https://holopin.me/it21158186#badges)](www.holopin.io/@it21158186#badges)
-<br/>
+<div align="center">
 
-## 🏆 Other Badges & Awards I Achieved
+### 🚀 About Me
+
+I'm a passionate **Software Engineer** and **Tech Enthusiast** with expertise in **Full Stack Development**. I love crafting scalable web applications and exploring cutting-edge technologies to solve real-world problems.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-00ff00?style=for-the-badge&logo=vercel&logoColor=000000)](https://deneth-portfolio.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deneth.official1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deneth-pinsara-6a765221b/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DenethOfficial)
+
+</div>
+
 ---
+
+## 💼 Current Status
+
+- 🔭 I'm currently a **Job Seeker** and **Freelancer**
+- 🌱 I'm constantly learning and improving my skills in **Laravel, React.js, Node.js, and AWS**
+- 👯 I'm looking to collaborate on **Open Source Projects** and **Full Stack Applications**
+- 💬 Ask me about **MERN Stack, Laravel, React, and Modern Web Development**
+- 📫 How to reach me: **deneth.official1@gmail.com**
+- ⚡ Fun fact: **I turn coffee into code and bugs into features! ☕**
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### Frontend Technologies
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=00ff00)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=00ff00)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![ShadCN](https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=shadcnui&logoColor=00ff00)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=laravel&logoColor=white)
+
+### Backend Technologies
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=00ff00)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=00ff00)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Deneth-Pinsara&color=00ff00&style=flat-square&label=Profile+Views)
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deneth-Pinsara&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff&icon_color=00ff00" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deneth-Pinsara&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff&icon_color=00ff00&layout=compact&langs_count=10&count_private=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Deneth-Pinsara&theme=dark&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideNums=00ff00&sideLabels=00ff00&dates=00ff00&stroke=00ff00" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🏆 Achievements & Trophies
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Deneth-Pinsara&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=5)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Deneth-Pinsara&theme=github-compact&hide_border=true&bg_color=0d1117&color=00ff00&line=00ff00&point=00ff00&area=true)
+
+</div>
+
+---
+
+## 📊 Stack Overflow Stats
+
+<div align="center">
+
+<div style="background-color: #141321; padding: 10px; border-radius: 8px; display: inline-block;">
+  <img src="https://github-stackoverflow-readme.vercel.app/?userId=26445227" alt="Stack Overflow Stats" style="width: 50%; background-color: inherit; border: none;" />
+</div>
+
+</div>
+
+---
+
+## 🏅 Badges & Certifications
+
+<div align="center">
+
+### Holopin Badges
+[![@it21158186's Holopin board](https://holopin.me/it21158186#badges)](https://holopin.io/@it21158186#badges)
+
+### Microsoft & AWS Certifications
 
 <table align="center">
   <tr>
     <td align="center">
       <a title="Get started with Power Apps canvas apps" href="https://learn.microsoft.com/en-us/training/modules/get-started-with-powerapps/">
-        <img width="120px" height="120px" src="https://learn.microsoft.com/en-us/training/achievements/get-started-with-powerapps.svg">
+        <img width="100px" height="100px" src="https://learn.microsoft.com/en-us/training/achievements/get-started-with-powerapps.svg">
       </a>
     </td>
     <td align="center">
       <a title="Describe how to build applications with Microsoft Power Apps" href="https://learn.microsoft.com/en-us/training/modules/introduction-power-apps/">
-        <img width="120px" height="120px" src="https://learn.microsoft.com/en-us/training/achievements/introduction-power-apps.svg">
+        <img width="100px" height="100px" src="https://learn.microsoft.com/en-us/training/achievements/introduction-power-apps.svg">
       </a>
     </td>
     <td align="center">
       <a title="Create and publish custom GitHub actions" href="https://learn.microsoft.com/en-us/training/modules/create-custom-github-actions/">
-        <img width="120px" height="120px" src="https://learn.microsoft.com/en-us/training/achievements/github/create-custom-github-actions.svg">
+        <img width="100px" height="100px" src="https://learn.microsoft.com/en-us/training/achievements/github/create-custom-github-actions.svg">
       </a>
     </td>
     <td align="center">
       <a title="Introduction to GitHub's products" href="https://learn.microsoft.com/en-us/training/modules/github-introduction-products/">
-        <img width="120px" height="120px" src="https://learn.microsoft.com/en-us/training/achievements/github-introduction-products.svg">
+        <img width="100px" height="100px" src="https://learn.microsoft.com/en-us/training/achievements/github-introduction-products.svg">
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a title="Introduction to Azure DevOps" href="https://learn.microsoft.com/en-us/training/modules/get-started-with-devops/">
-        <img width="120px" height="120px" src="https://learn.microsoft.com/en-us/training/achievements/azure-devops/get-started-with-devops.svg">
+        <img width="100px" height="100px" src="https://learn.microsoft.com/en-us/training/achievements/azure-devops/get-started-with-devops.svg">
       </a>
     </td>
     <td align="center">
       <a title="Manage Agile software delivery plans across teams" href="https://learn.microsoft.com/en-us/training/modules/manage-delivery-plans/">
-        <img width="120px" height="120px" src="https://learn.microsoft.com/en-us/training/achievements/azure-devops/manage-agile-software-delivery-plans-across-teams.svg">
+        <img width="100px" height="100px" src="https://learn.microsoft.com/en-us/training/achievements/azure-devops/manage-agile-software-delivery-plans-across-teams.svg">
       </a>
     </td>
     <td align="center">
       <a title="Choose an Agile approach to software development" href="https://learn.microsoft.com/en-us/training/modules/choose-an-agile-approach/">
-        <img width="120px" height="120px" src="https://learn.microsoft.com/en-us/training/achievements/azure-devops/choose-an-agile-approach-to-software-development.svg">
+        <img width="100px" height="100px" src="https://learn.microsoft.com/en-us/training/achievements/azure-devops/choose-an-agile-approach-to-software-development.svg">
       </a>
     </td>
     <td align="center">
       <a title="Assess your existing software development process" href="https://learn.microsoft.com/en-us/training/modules/assess-your-development-process/">
-        <img width="120px" height="120px" src="https://learn.microsoft.com/en-us/training/achievements/azure-devops/assess-your-software-development-process.svg">
+        <img width="100px" height="100px" src="https://learn.microsoft.com/en-us/training/achievements/azure-devops/assess-your-software-development-process.svg">
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="4">
       <a title="AWS Educate Introduction to Cloud 101" href="https://www.credly.com/earner/earned/badge/ee944d91-6f44-4bb6-bc02-7ac62ebee8eb">
-        <img width="120px" height="120px" src="https://github.com/user-attachments/assets/f59a2132-a218-410e-9c74-1b471782fd6b">
+        <img width="100px" height="100px" src="https://github.com/user-attachments/assets/f59a2132-a218-410e-9c74-1b471782fd6b">
       </a>
     </td>
   </tr>
 </table>
 
-## 🏆 Achievements & Trophies
+</div>
+
+---
+
+## 💡 Random Dev Quote
 
 <div align="center">
 
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Deneth-Pinsara&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0d1117&text_color=ffffff&title_color=00ff00)
 
 </div>
 
-## 📊 My GitHub Stats:
+---
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div align="center">
 
-  <!-- GitHub Top Languages -->
-  <a href="https://github.com/Deneth-Pinsara/github-readme-stats">
-    <img alt="Deneth's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deneth-Pinsara&langs_count=10&count_private=true&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff&icon_color=00ff00" />
-  </a>
+### 🤝 Let's Connect!
 
-  <!-- GitHub Stats -->
-  <a href="https://github.com/Deneth-Pinsara/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Deneth-Pinsara&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff&icon_color=00ff00&show_icons=true" alt="GitHub Stats" />
-  </a>
-
-  <!-- GitHub Streak -->
-  <a href="https://github.com/Deneth-Pinsara">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deneth-Pinsara&theme=dark&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideNums=00ff00&sideLabels=00ff00&dates=00ff00&stroke=00ff00" alt="GitHub Streak" />
-  </a>
-  
-  <!-- Most Contributed Repositories -->
-  <!--  <a href="https://githubtrends.io">
-    <img src="https://api.githubtrends.io/user/svg/Deneth-Pinsara/repos?time_range=one_year&theme=synthwaves" alt="Most Contributed Repositories" />
-  </a>  -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-00ff00?style=for-the-badge&logo=vercel&logoColor=000000)](https://deneth-portfolio.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deneth.official1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deneth-pinsara-6a765221b/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DenethOfficial)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deneth-Pinsara)
 
 </div>
 
-<!-- GitHub Activity Graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deneth-Pinsara&theme=github-compact&hide_border=true&bg_color=0d1117&color=00ff00&line=00ff00&point=00ff00&area=true" alt="GitHub Activity Graph" />
-</a>
+---
 
+<div align="center">
 
-# 📊 My Stack Overflow Stats:
+**🌟 Thanks for visiting! 🚀**
 
-<div style="background-color: #141321; padding: 10px; border-radius: 8px; display: inline-block;">
-  <img src="https://github-stackoverflow-readme.vercel.app/?userId=26445227" alt="Stack Overflow Stats" style="width: 50%; background-color: inherit; border: none;" />
+*"Code is like humor. When you have to explain it, it's bad." - Cory House*
+
+If you like what I'm doing, maybe consider buying me a coffee/tea 👉👈
+
+<a href="https://bmc.link/denethPinsara" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="120" /></a>
+
 </div>
 
-
-# Languages and Tools:
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="go" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-
-
-If you like what am doing, maybe consider buying me a coffee/tea👉👈
-<a href="https://bmc.link/denethPinsara" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
-
-<!-- ## Snake eating my contributions graph -->
-
-![snake gif](https://github.com/Deneth-Pinsara/Deneth-Pinsara/blob/output/github-contribution-grid-snake.gif)
