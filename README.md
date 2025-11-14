@@ -5,7 +5,7 @@
 </p>
 
 <p align="center" width="100%">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20There!;I'm%20Deneth%20Pinsara;Software%20Engineer👨🏻‍💻;Web%20Developer💻;Tech%20Enthusiast🚀;Last%20year%20SLIIT%20Undergraduate%20👨‍🎓;Job%20Seeker&font=Fira%20Code&center=true&width=440&height=45&color=#a930ff&vCenter=true&size=28" width="100%"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20There!;I'm%20Deneth%20Pinsara;Software%20Engineer👨🏻‍💻;Web%20Developer💻;Tech%20Enthusiast🚀;Job%20Seeker&font=Fira%20Code&center=true&width=440&height=45&color=#a930ff&vCenter=true&size=28" width="100%"></a>
 </p>
 
 <h3 align="center">I'm a passionate Software Engineer from Sri Lanka and am also a freelanser. I'm learning from open-source communities and I love, how collaboration and knowledge sharing happened through open-source.</h3>
@@ -40,7 +40,7 @@
 </p>
 <br />
 
-## Portfolio🌐 : [https://deneth-pinsara.github.io/](https://Deneth-Pinsara.github.io/)
+## Portfolio🌐 : [https://deneth-portfolio.netlify.app/](https://deneth-portfolio.netlify.app/)
 <br/>
 
 ## 🙋‍♂️ About Me 
@@ -72,27 +72,14 @@
 ⢨⠀⠀⣖⢃⡜⠀⢰⠀⠀⠀⠀⠈⣿⡏⠀⠑⠀⣰⡟⠀⠀⠀⠀⢰⡟⠀⣿⠮⣅⣺⠀⢻⡒⠒⠦⡇⠀⠀⠀⣆⠀⠀⠀⠀⠀⠀⠀⠘⡀
 
 
-- 🔭 I’m currently a **Job Seeker**
+- 🔭 I'm currently a **Job Seeker**
 
-- 🌱 I’m currently learning **BSc (Hons) in Information Technology - Specializing IT**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I'm looking to collaborate on **OpenSource Projects**
 
 - 📫 How to reach me **deneth.official1@gmail.com**
 
 - ⚡ Fun fact **I play video games and watch series**
   <br/>
-
-<p align="center">
-
-```
-For Academic Purposes
-
-SLIIT Student ID : Deneth-Pinsara
-Student Name : Pinsara A.R.D.
-```
-
-</p>
 
 ## 🥇 Badges (Holopin) I Achieved
 ---
@@ -157,6 +144,13 @@ Student Name : Pinsara A.R.D.
   </tr>
 </table>
 
+## 🏆 Achievements & Trophies
+
+<div align="center">
+
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Deneth-Pinsara&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4)
+
+</div>
 
 ## 📊 My GitHub Stats:
 
@@ -164,17 +158,17 @@ Student Name : Pinsara A.R.D.
 
   <!-- GitHub Top Languages -->
   <a href="https://github.com/Deneth-Pinsara/github-readme-stats">
-    <img alt="Deneth's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deneth-Pinsara&langs_count=10&count_private=true&layout=compact&theme=radical&hide_border=true" />
+    <img alt="Deneth's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deneth-Pinsara&langs_count=10&count_private=true&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff&icon_color=00ff00" />
   </a>
 
   <!-- GitHub Stats -->
   <a href="https://github.com/Deneth-Pinsara/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Deneth-Pinsara&theme=radical&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Deneth-Pinsara&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff&icon_color=00ff00&show_icons=true" alt="GitHub Stats" />
   </a>
 
   <!-- GitHub Streak -->
   <a href="https://github.com/Deneth-Pinsara">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deneth-Pinsara&theme=radical&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deneth-Pinsara&theme=dark&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideNums=00ff00&sideLabels=00ff00&dates=00ff00&stroke=00ff00" alt="GitHub Streak" />
   </a>
   
   <!-- Most Contributed Repositories -->
@@ -186,7 +180,7 @@ Student Name : Pinsara A.R.D.
 
 <!-- GitHub Activity Graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deneth-Pinsara&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deneth-Pinsara&theme=github-compact&hide_border=true&bg_color=0d1117&color=00ff00&line=00ff00&point=00ff00&area=true" alt="GitHub Activity Graph" />
 </a>
 
 
