@@ -3,7 +3,7 @@
 # 👋 Hi there, I'm Deneth Pinsara
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Full+Stack+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Technologies&font=Fira+Code&center=true&width=600&height=45&color=00ff00&vCenter=true&size=28&duration=3000&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Software+Engineer;Passionate+Frontend+Developer;Fast+and+Dedicated+Learner;Innovative+Problem+Solver&font=Fira+Code&center=true&width=700&height=50&color=00ff00&vCenter=true&size=28&duration=2500&pause=1200">
 </div>
 
 </div>
@@ -41,6 +41,7 @@ I'm a passionate **Software Engineer** and **Tech Enthusiast** with expertise in
 <div align="center">
 
 ### Frontend Technologies
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=00ff00)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=00ff00)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
@@ -53,17 +54,20 @@ I'm a passionate **Software Engineer** and **Tech Enthusiast** with expertise in
 ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### Backend Technologies
+
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=00ff00)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Database
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Tools & Platforms
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -129,6 +133,7 @@ I'm a passionate **Software Engineer** and **Tech Enthusiast** with expertise in
 <div align="center">
 
 ### Holopin Badges
+
 [![@it21158186's Holopin board](https://holopin.me/it21158186#badges)](https://holopin.io/@it21158186#badges)
 
 ### Microsoft & AWS Certifications
@@ -219,11 +224,10 @@ I'm a passionate **Software Engineer** and **Tech Enthusiast** with expertise in
 
 **🌟 Thanks for visiting! 🚀**
 
-*"Code is like humor. When you have to explain it, it's bad." - Cory House*
+_"Code is like humor. When you have to explain it, it's bad." - Cory House_
 
 If you like what I'm doing, maybe consider buying me a coffee/tea 👉👈
 
 <a href="https://bmc.link/denethPinsara" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="120" /></a>
 
 </div>
-
