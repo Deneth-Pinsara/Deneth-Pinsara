@@ -28,9 +28,9 @@ I'm a passionate **Software Engineer** and **Tech Enthusiast** with expertise in
 ## 💼 Current Status
 
 - 🔭 I'm currently a **Job Seeker** and **Freelancer**
-- 🌱 I'm constantly learning and improving my skills in **Laravel, React.js, Node.js, and AWS**
+- 🌱 I'm constantly learning and improving my skills in **Laravel, React.js, Next.js, Node.js and Livewire**
 - 👯 I'm looking to collaborate on **Open Source Projects** and **Full Stack Applications**
-- 💬 Ask me about **MERN Stack, Laravel, React, and Modern Web Development**
+- 💬 Ask me about **Laravel, MERN Stack, Next.js, and Modern Web Development**
 - 📫 How to reach me: **deneth.official1@gmail.com**
 - ⚡ Fun fact: **I turn coffee into code and bugs into features! ☕**
 
